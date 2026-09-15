@@ -14,9 +14,9 @@ Esta é a minha **primeira aplicação real** aplicando os conhecimentos de estr
 
 ## 📈 Próximos Passos Evolutivos
 Como este arquivo representa o marco zero do meu aprendizado prático:
-1. [x] Consolidar a marcação e semântica do HTML5.
-2. [ ] Criar uma folha de estilo CSS isolada para substituir marcações visuais (como a tag `<br>`) por margens e paddings profissionais.
-3. [ ] Aplicar conceitos de **Flexbox** para centralizar e alinhar os elementos da tela.
+1. [X] Consolidar a marcação e semântica do HTML5.
+2. [X] Criar uma folha de estilo CSS isolada para substituir marcações visuais (como a tag `<br>`) por margens e paddings profissionais.
+3. [X] Aplicar conceitos de **Flexbox** para centralizar e alinhar os elementos da tela.
 
 ---
 Desenvolvido por **Luiz Felipe** – Estudante de ADS @ IFPE.
